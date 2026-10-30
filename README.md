@@ -6,7 +6,7 @@ Static HTML, CSS, and a small progressive-enhancement script. Open index.html lo
 
 ## Content and layout
 
-Compact biography and publication rows with figures on the left and text on the right, informed by https://wumuzhe.com/ . Original code; no copied third-party personal assets. No personal portrait. Mobile layout uses a single column.
+Compact biography and publication rows with figures on the left and text on the right, informed by https://wumuzhe.com/ . Original code; no copied third-party personal assets. Owner-approved personal photograph appears beside the introduction, and above it on mobile. Mobile layout uses a single column.
 
 Only accepted or published work receives paper entries, images, and links. Work under review is represented by broad interests only. Do not publish its titles, author lists, figures, methods, results, PDFs, or videos before acceptance without explicit instruction from the owner.
 
