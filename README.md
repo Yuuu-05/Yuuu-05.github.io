@@ -8,11 +8,13 @@ Static HTML and CSS. Open index.html locally, or run `python -m http.server 8000
 
 The homepage introduces the research direction, highlights HoldLight and RoboBlockly Studio with visible personal contributions and study findings, and provides a compact publication list and background. `research.html` expands the two selected projects into research case studies. Existing `#holdlight`, `#roboblockly`, and `#background` homepage links remain supported.
 
-Research interests follow the CV order: Human–Computer Interaction, Accessibility, XR, Human–Robot Interaction. Full papers and workshop papers are listed separately. Study summaries name the comparison and keep conclusions within the evidence.
+Research interests follow the CV order: Human–Computer Interaction, Accessibility, XR, Human–Robot Interaction. The homepage uses navigation only above a single name heading. Full papers and workshop papers are listed separately; the equal-contribution notation appears once below the list. Study summaries name the comparison and keep conclusions within the evidence.
 
 Original code and owner-approved assets. The full coastal photograph appears beside the introduction on desktop and after the introduction on mobile. A 900px WebP derivative reduces the photograph's transfer size from approximately 8.46 MB to 177 KB; the original is retained. Mobile layout uses a single column. The primary content is available without JavaScript.
 
 Only accepted or published work receives paper entries, images, and links. Work under review is represented by broad interests only. Do not publish its titles, author lists, figures, methods, results, PDFs, or videos before acceptance without explicit instruction from the owner.
+
+All HoldLight video links point to the owner-specified release: https://github.com/Yuuu-05/HoldLight/releases/tag/project-demo . Do not restore the superseded local video.
 
 CV is available by email until a public version has been reviewed for unpublished research details.
 
