@@ -26,6 +26,7 @@ h3 a{color:inherit}
 .chinese-name{font-family:var(--sans);font-size:17px;font-weight:400;color:var(--muted);white-space:nowrap;margin-left:6px}
 .wave{font-family:'Segoe UI Emoji','Apple Color Emoji',sans-serif;font-size:.8em}
 .intro-copy{grid-area:copy;min-width:0}
+.accent-text{color:var(--accent)}
 .lead{font-size:18px;line-height:1.6}
 .portrait{grid-area:portrait;align-self:center}
 .portrait img{width:100%;border-radius:5px}
